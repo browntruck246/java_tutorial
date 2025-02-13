@@ -22,3 +22,14 @@ System.out.println( " Product 1  : " + product1.toString() );
 ```
 
 This code showcases basic object-oriented programming principles such as encapsulation, constructors, and method overriding in Java. It also demonstrates how to create and manipulate objects, access their attributes, and print their details.
+
+# Output
+```
+*** main ***
+ Product 1 Name : Laptop
+ Product 2 Name : Smartphone
+*** Set Name ***
+ Product 1 Name : Desktop
+*** Print All ***
+ Product 1  : Product [id=1, name=Desktop, description=High-end gaming laptop, price=$1500]
+ ```
