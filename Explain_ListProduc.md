@@ -49,3 +49,13 @@ In this example:
 - We iterate over the list and print the names of the products.
 
 This code snippet demonstrates how to initialize, add to, and iterate over a list of `Product` objects in Java.
+
+# Output
+```
+*** main ***
+Product [id=1, name=Laptop, description=High-end gaming laptop, price=$1500]
+Product [id=2, name=Smartphone, description=Latest model smartphone, price=$999]
+```
+# Code
+- [Main_ListProduct.java](https://github.com/browntruck246/java_tutorial/blob/main/src/java_tutorial/Main_ListProduct.java)
+- [Product.java](https://github.com/browntruck246/java_tutorial/blob/main/src/java_tutorial/Product.java)
