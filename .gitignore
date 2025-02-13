@@ -5,3 +5,4 @@ bin/module-info.class
 src/module-info.java
 bin/java_tutorial/Product.class
 bin/java_tutorial/Main_ListProduct.class
+bin/java_tutorial/Main_Product.class
