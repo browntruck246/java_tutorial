@@ -34,6 +34,6 @@ This code showcases basic object-oriented programming principles such as encapsu
  Product 1  : Product [id=1, name=Desktop, description=High-end gaming laptop, price=$1500]
  ```
 
- # Code 
+# Code
  - [Main_Product.java](https://github.com/browntruck246/java_tutorial/blob/main/src/java_tutorial/Main_Product.java)
  - [Product.java](https://github.com/browntruck246/java_tutorial/blob/main/src/java_tutorial/Product.java)
